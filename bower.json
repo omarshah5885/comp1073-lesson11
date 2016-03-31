@@ -1,0 +1,16 @@
+{
+  "name": "COMP1073-Lesson11-master",
+  "authors": [
+    "omarshah5885 <umarshah0@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "dependencies": {
+    "font-awesome": "^4.5.0",
+    "jquery": "^2.2.2"
+  }
+}
